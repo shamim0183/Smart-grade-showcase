@@ -1,20 +1,8 @@
 import React, { useState } from 'react';
+import studentData from './student.json'
 
 const Students = () => {
-  const [classesData, setClassesData] = useState([]);
-
-  const fetchData = async () => {
-    try {
-      const response = await fetch('/src/component/student.json');
-      const data = await response.json();
-      setClassesData(data.classes);
-    } catch (error) {
-      console.error('Error fetching data:', error);
-    }
-  };
-
-  fetchData();
-
+  const [classesData, setClassesData] = useState(studentData.classes);
 
   return (
     <div>
