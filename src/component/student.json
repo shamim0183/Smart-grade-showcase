@@ -1,0 +1,232 @@
+{
+  "classes": [
+    {
+      "classNumber": 1,
+      "className": "Class One",
+      "students": [
+        {
+          "id": 1,
+          "name": "Alice Johnson",
+          "image": "https://randomuser.me/api/portraits/men/1.jpg",
+          "grade": "A+",
+          "percentage": 98
+        },
+        {
+          "id": 2,
+          "name": "Bob Smith",
+          "image": "https://randomuser.me/api/portraits/men/2.jpg",
+          "grade": "B",
+          "percentage": 85
+        },
+        {
+          "id": 3,
+          "name": "Charlie Brown",
+          "image": "https://randomuser.me/api/portraits/men/3.jpg",
+          "grade": "B+",
+          "percentage": 92
+        },
+        {
+          "id": 4,
+          "name": "David Wilson",
+          "image": "https://randomuser.me/api/portraits/men/4.jpg",
+          "grade": "A-",
+          "percentage": 89
+        },
+        {
+          "id": 5,
+          "name": "Emma Taylor",
+          "image": "https://randomuser.me/api/portraits/men/5.jpg",
+          "grade": "C",
+          "percentage": 75
+        },
+        {
+          "id": 6,
+          "name": "Frank Davis",
+          "image": "https://randomuser.me/api/portraits/men/6.jpg",
+          "grade": "A+",
+          "percentage": 98
+        },
+        {
+          "id": 7,
+          "name": "Grace White",
+          "image": "https://randomuser.me/api/portraits/men/7.jpg",
+          "grade": "B",
+          "percentage": 85
+        },
+        {
+          "id": 8,
+          "name": "Henry Johnson",
+          "image": "https://randomuser.me/api/portraits/men/8.jpg",
+          "grade": "B+",
+          "percentage": 92
+        },
+        {
+          "id": 9,
+          "name": "Ivy Brown",
+          "image": "https://randomuser.me/api/portraits/men/9.jpg",
+          "grade": "A-",
+          "percentage": 89
+        },
+        {
+          "id": 10,
+          "name": "Jack Robinson",
+          "image": "https://randomuser.me/api/portraits/men/10.jpg",
+          "grade": "C",
+          "percentage": 75
+        }
+      ]
+    },
+    {
+      "classNumber": 2,
+      "className": "Class Two",
+      "students": [
+        {
+          "id": 1,
+          "name": "Kate Miller",
+          "image": "https://randomuser.me/api/portraits/men/11.jpg",
+          "grade": "A+",
+          "percentage": 98
+        },
+        {
+          "id": 2,
+          "name": "Leo Anderson",
+          "image": "https://randomuser.me/api/portraits/men/12.jpg",
+          "grade": "B",
+          "percentage": 85
+        },
+        {
+          "id": 3,
+          "name": "Mia Davis",
+          "image": "https://randomuser.me/api/portraits/men/13.jpg",
+          "grade": "B+",
+          "percentage": 92
+        },
+        {
+          "id": 4,
+          "name": "Noah Harris",
+          "image": "https://randomuser.me/api/portraits/men/14.jpg",
+          "grade": "A-",
+          "percentage": 89
+        },
+        {
+          "id": 5,
+          "name": "Olivia Clark",
+          "image": "https://randomuser.me/api/portraits/men/15.jpg",
+          "grade": "C",
+          "percentage": 75
+        },
+        {
+          "id": 6,
+          "name": "Peter Lee",
+          "image": "https://randomuser.me/api/portraits/men/16.jpg",
+          "grade": "A+",
+          "percentage": 98
+        },
+        {
+          "id": 7,
+          "name": "Quinn Turner",
+          "image": "https://randomuser.me/api/portraits/men/17.jpg",
+          "grade": "B",
+          "percentage": 85
+        },
+        {
+          "id": 8,
+          "name": "Ryan White",
+          "image": "https://randomuser.me/api/portraits/men/18.jpg",
+          "grade": "B+",
+          "percentage": 92
+        },
+        {
+          "id": 9,
+          "name": "Sophie Wilson",
+          "image": "https://randomuser.me/api/portraits/men/19.jpg",
+          "grade": "A-",
+          "percentage": 89
+        },
+        {
+          "id": 10,
+          "name": "Tyler Brown",
+          "image": "https://randomuser.me/api/portraits/men/20.jpg",
+          "grade": "C",
+          "percentage": 75
+        }
+      ]
+    },
+    {
+      "classNumber": 3,
+      "className": "Class Three",
+      "students": [
+        {
+          "id": 1,
+          "name": "Isaac Johnson",
+          "image": "https://randomuser.me/api/portraits/men/21.jpg",
+          "grade": "A+",
+          "percentage": 98
+        },
+        {
+          "id": 2,
+          "name": "Samantha Smith",
+          "image": "https://randomuser.me/api/portraits/men/22.jpg",
+          "grade": "B",
+          "percentage": 85
+        },
+        {
+          "id": 3,
+          "name": "Benjamin Brown",
+          "image": "https://randomuser.me/api/portraits/men/23.jpg",
+          "grade": "B+",
+          "percentage": 92
+        },
+        {
+          "id": 4,
+          "name": "Hannah Wilson",
+          "image": "https://randomuser.me/api/portraits/men/24.jpg",
+          "grade": "A-",
+          "percentage": 89
+        },
+        {
+          "id": 5,
+          "name": "Oscar Taylor",
+          "image": "https://randomuser.me/api/portraits/men/25.jpg",
+          "grade": "C",
+          "percentage": 75
+        },
+        {
+          "id": 6,
+          "name": "Lily Davis",
+          "image": "https://randomuser.me/api/portraits/men/26.jpg",
+          "grade": "A+",
+          "percentage": 98
+        },
+        {
+          "id": 7,
+          "name": "Ethan White",
+          "image": "https://randomuser.me/api/portraits/men/27.jpg",
+          "grade": "B",
+          "percentage": 85
+        },
+        {
+          "id": 8,
+          "name": "Zoe Johnson",
+          "image": "https://randomuser.me/api/portraits/men/28.jpg",
+          "grade": "B+",
+          "percentage": 92
+        },
+        {
+          "id": 9,
+          "name": "Mason Brown",
+          "image": "https://randomuser.me/api/portraits/men/29.jpg",
+          "grade": "A-",
+          "percentage": 89
+        },
+        {
+          "id": 10,
+          "name": "Ava Robinson",
+          "image": "https://randomuser.me/api/portraits/men/30.jpg",
+          "grade": "C",
+          "percentage": 75
+        }
+      ]
+    }
+  ]
+}
