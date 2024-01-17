@@ -1,9 +1,7 @@
-import React, { useState } from 'react';
-import studentData from './student.json'
+import React from 'react';
+import studentData from './student.json';
 
 const Students = () => {
-  const [classesData, setClassesData] = useState(studentData.classes);
-
   return (
     <div>
       {/* <!--Begin Students table --> */}
@@ -79,7 +77,7 @@ const Students = () => {
                 </tr>
               </thead>
               <tbody>
-                {classesData.map((classInfo) => (
+                {studentData.classes.map((classInfo) => (
                   <React.Fragment key={`class-${classInfo.classNumber}`}>
                     {/* Row for className */}
                     <tr className="bg-white/5">
